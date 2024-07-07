@@ -1,6 +1,6 @@
-## Slot-Machine
+# Slot-Machine
 
-# Features
+## Features
 - Deposit Money: Players can deposit money into the game.
 - Betting: Players can choose the number of lines to bet on (up to 3 lines) and place bets within a specified range.
 - Spinning the Slot Machine: The game simulates spinning a 3x3 slot machine with different symbols having different probabilities and payouts.
