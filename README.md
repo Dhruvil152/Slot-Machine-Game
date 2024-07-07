@@ -13,7 +13,7 @@
 - D: Shows up 8 times, pays 2x the bet amount
 
 ## How to Play
-- Deposit Money: Input how much money you are willing to deposit.
+- Deposit Money: Input the amount money you are willing to deposit.
 - Choose Lines and Bet: Choose the lines and places you want to bet on and then type the corresponding bet size in each of the lines.
 - Spin: Hit Enter to spin.
 - Results: The combination that the slot machine stopped at will be shown. An update of your final amount and a display of the results including a win will also follow.
