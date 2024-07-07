@@ -1,10 +1,10 @@
 (Slot-Machine)
 
-<!-- Features -->
-# Deposit Money: Players can deposit money into the game.
-# Betting: Players can choose the number of lines to bet on (up to 3 lines) and place bets within a specified range.
-# Spinning the Slot Machine: The game simulates spinning a 3x3 slot machine with different symbols having different probabilities and payouts.
-# Winning Calculation: The game calculates winnings based on the symbols lined up on the bet lines and updates the player's balance accordingly.
+# Features
+- Deposit Money: Players can deposit money into the game.
+- Betting: Players can choose the number of lines to bet on (up to 3 lines) and place bets within a specified range.
+- Spinning the Slot Machine: The game simulates spinning a 3x3 slot machine with different symbols having different probabilities and payouts.
+- Winning Calculation: The game calculates winnings based on the symbols lined up on the bet lines and updates the player's balance accordingly.
 
 <!-- Symbols and Values -->
 # A: Appears 2 times, pays 5x the bet
