@@ -7,10 +7,10 @@
 - Winning Calculation: The slot game will display your winnings after you gained the right symbols on bet lines. Additionally, betting money that you already had on the line, the result will show up on the user's account.
 
 ## Symbols and Values
-- A: Appears 2 times, pays 5x the bet
-- B: Appears 4 times, pays 4x the bet
-- C: Appears 6 times, pays 3x the bet
-- D: Appears 8 times, pays 2x the bet
+- A: Shows up 2 times, pays 5x the bet amount
+- B: Shows up 4 times, pays 4x the bet amount
+- C: Shows up 6 times, pays 3x the bet amount
+- D: Shows up 8 times, pays 2x the bet amount
 
 ## How to Play
 - Deposit Money: Input how much money you are willing to deposit.
