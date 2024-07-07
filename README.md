@@ -1,4 +1,4 @@
-# Python-Slot-Machine #
+(# Python-Slot-Machine #)
 
 <!-- Features -->
 # Deposit Money: Players can deposit money into the game.
