@@ -1,4 +1,4 @@
-(Slot-Machine)
+## Slot-Machine
 
 # Features
 - Deposit Money: Players can deposit money into the game.
