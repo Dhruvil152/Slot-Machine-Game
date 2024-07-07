@@ -1,10 +1,10 @@
 # Slot-Machine (Python)
 
 ## Features
-- Deposit Money: Players can deposit money into the game.
-- Betting: Players can choose the number of lines to bet on (up to 3 lines) and place bets within a specified range.
-- Spinning the Slot Machine: The game simulates spinning a 3x3 slot machine with different symbols having different probabilities and payouts.
-- Winning Calculation: The game calculates winnings based on the symbols lined up on the bet lines and updates the player's balance accordingly.
+- Deposit Money: Players can put in some cash to start.
+- Betting: The player can choose from the 1-3 lines and then decide to bet a portion of their balance. The amount will apply to all lines equally.
+- Spinning the Slot Machine: The slot game imitates a 3x3 slot machine where the different symbols have chances to make the spin randomly.
+- Winning Calculation: The slot game will display your winnings after you gained the right symbols on bet lines. Additionally, betting money that you already had on the line, the result will show up on the user's account.
 
 ## Symbols and Values
 - A: Appears 2 times, pays 5x the bet
@@ -13,8 +13,8 @@
 - D: Appears 8 times, pays 2x the bet
 
 ## How to Play
-- Deposit Money: Enter the amount of money you want to deposit.
-- Choose Lines and Bet: Select the number of lines to bet on and enter the amount to bet on each line.
-- Spin: Press enter to spin the slot machine.
-- Results: The game displays the slot machine outcome, your winnings, and updates your balance.
-- Continue or Quit: Choose to spin again or quit the game.
+- Deposit Money: Input how much money you are willing to deposit.
+- Choose Lines and Bet: Choose the lines and places you want to bet on and then type the corresponding bet size in each of the lines.
+- Spin: Hit Enter to spin.
+- Results: The combination that the slot machine stopped at will be shown. An update of your final amount and a display of the results including a win will also follow.
+- Continue or Quit: You can either decide to spin the machine again or to stop the game.
